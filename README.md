@@ -88,4 +88,4 @@ jupyter notebook FamilyGuy_eda.ipynb
 
 ---
 
-*Made by [Nano Vives][https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nano-vives/) · 2026*
+*Made by [Nano Vives][https://www.linkedin.com/in/nano-vives/] · 2026*
