@@ -79,7 +79,7 @@ The dataset is not included in the repo due to file size. Download it from Kaggl
 
 **5. Open the notebook**
 ```bash
-jupyter notebook FamilyGuy_Final.ipynb
+jupyter notebook FamilyGuy_eda.ipynb
 ```
 
 ## Dataset
