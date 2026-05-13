@@ -29,10 +29,10 @@ This project explores **400 episodes of Family Guy** through IMDb ratings, music
 
 ## Tools & libraries
 
-![Python]
-![Pandas]
-![Matplotlib]
-![Seaborn]
+Python
+Pandas
+Matplotlib
+Seaborn
 
 ---
 
