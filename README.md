@@ -41,7 +41,7 @@ Seaborn
 ```
 family-guy-eda/
 ├── FamilyGuy_Final.ipynb          ← main analysis notebook
-├── character_appearances.ipynb    ← bonus: fixing a data parsing bug on character counts
+├── character_appearances.ipynb    ← extra data for another analysis: fixing a data parsing bug on character counts
 ├── data/
 │   └── Family Guy Dataset.csv     ← source dataset (from Kaggle, see link below)
 ├── fonts/
