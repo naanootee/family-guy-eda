@@ -1,3 +1,4 @@
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1040e57b-9ea9-47ed-98a1-b1bb61483fbe" />
 **Family Guy — Exploratory Data Analysis**
 Family Guy data analysis project using Python. Analysis of 400 episodes across 21 seasons, exploring IMDb rating trends, musical episodes, guest stars, writers/directors, runtime impact, and character appearances through EDA and data visualization on Family Guy.
 
